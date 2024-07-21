@@ -1,0 +1,15 @@
+CONTORNO 0: con 1.154 milímetros cuadrados
+CONTORNO 1: con 7.035 milímetros cuadrados
+CONTORNO 2: con 2.218 milímetros cuadrados
+CONTORNO 3: con 1.779 milímetros cuadrados
+CONTORNO 4: con 0.969 milímetros cuadrados
+CONTORNO 5: con 1.183 milímetros cuadrados
+CONTORNO 6: con 140.28 milímetros cuadrados
+CONTORNO 7: con 1.308 milímetros cuadrados
+CONTORNO 8: con 0.888 milímetros cuadrados
+CONTORNO 9: con 0.599 milímetros cuadrados
+CONTORNO 10: con 1.902 milímetros cuadrados
+CONTORNO 11: con 3.057 milímetros cuadrados
+Número de partículas: 12
+Total superficie partícula: 162.372 milímetros cuadrados 
+Porcentaje partículas en imagen: 2.03%
