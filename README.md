@@ -17,6 +17,7 @@ To run the program, execute the file `btm_program.exe`. The menu presents three 
   - The original grayscale image.
   - A binary image with contours analyzed by the algorithm.
   - The original image with highlighted contours.
+- **files**: Contains the 'particles.txt' file.
 
 ### Example Output Images
 
@@ -25,6 +26,8 @@ To run the program, execute the file `btm_program.exe`. The menu presents three 
 - ![Original Image with Highlighted Contours](output/contours.jpg)
 
 These example images show the different stages of processing: the original grayscale image, the binary image with detected contours, and the final image with highlighted contours.
+
+This project is part of a Bachelor's Final Project. All documentation about the project can be found in the file `TFG.pdf`.
 
 ---
 
