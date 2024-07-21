@@ -20,9 +20,9 @@ To run the program, execute the file `btm_program.exe`. The menu presents three 
 
 ### Example Output Images
 
-- ![Original Grayscale Image](output/contours.jpg)
-- ![Binary Image with Contours](output/gray.jpg)
-- ![Original Image with Highlighted Contours](output/result.jpg)
+- ![Original Grayscale Image](output/gray.jpg)
+- ![Binary Image with Contours](output/result.jpg)
+- ![Original Image with Highlighted Contours](output/contours.jpg)
 
 These example images show the different stages of processing: the original grayscale image, the binary image with detected contours, and the final image with highlighted contours.
 
